@@ -1,0 +1,6 @@
+My name is lynn.
+
+
+1.git add changed_file_name
+git commit -m "commit message"
+git push
